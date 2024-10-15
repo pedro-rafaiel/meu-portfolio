@@ -4,7 +4,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/pedro-rafaiel/nome-novo-do-repositorio.git"
+    "url": "https://github.com/pedro-rafaiel/meuportfolio.git"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
