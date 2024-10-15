@@ -2,7 +2,10 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pedro-rafaiel.github.io/meu-portfolio",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedro-rafaiel/nome-novo-do-repositorio.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
